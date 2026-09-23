@@ -6,22 +6,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/surbaniak/iphone-na-macu-releases</link>
     <description>Podpisane aktualizacje iPhone na Macu</description>
     <item>
-      <title>iPhone na Macu 2.11.0</title>
-      <pubDate>Wed, 23 Sep 2026 23:04:40 +0000</pubDate>
-      <description># iPhone na Macu 2.11.0
-
-- Automatyczne sprawdzanie, pobieranie i instalowanie podpisanych aktualizacji przez Sparkle.
-- Krótsze menu: wybór telefonu, ponowne połączenie i sprawdzanie aktualizacji.
-- Szklane podpowiedzi ikon po około 1,2 sekundy najechania kursorem.
-- Poprawione wklejanie tekstu dyktowanego we Flash: bez dodatkowego V, z polskimi znakami, emoji i nowymi wierszami.
-
-Wymagania pozostają bez zmian: Apple Silicon, macOS/iOS 27, Xcode 27 i sparowany fizyczny iPhone w trybie deweloperskim.
-</description>
+      <title>iPhone na Macu 2.11.1</title>
+      <pubDate>Wed, 23 Sep 2026 23:40:33 +0000</pubDate>
+      <description>&lt;h3&gt;iPhone na Macu 2.11.1&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Wklejanie tekstu z Flash wykonuje zapis, sprawdzenie schowka i wywołanie Wklej w jednej operacji, po przygotowaniu klawiatury telefonu.&lt;/li&gt;&lt;li&gt;Przy wykryciu zmienionego schowka aplikacja przerywa wklejanie zamiast wstawienia innej zawartości.&lt;/li&gt;&lt;li&gt;Nowe okno „O aplikacji iPhone na Macu”: ikona, wersja, numer buildu i autor Sebastian Urbaniak · AppFly | Flying Pixel.&lt;/li&gt;&lt;li&gt;Czytelniejszy pasek na jasnym tle: standardowy Liquid Glass i ikony renderowane wewnątrz jego warstwy.&lt;/li&gt;&lt;/ul&gt;</description>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/surbaniak/iphone-na-macu-releases/releases/download/v2.11.0/iPhone-na-Macu-2.11.0-update.zip" length="4775776" type="application/octet-stream" sparkle:version="29" sparkle:shortVersionString="2.11.0" sparkle:edSignature="EXMOkw/cw2bcNyZnXKB9tFkLTYgxC4/00H+mmVyXGEKJrvIHBaX9HFNp1BBlybE0Xf3U1RoHj/XFSBwmwOcbCg=="></enclosure>
+      <enclosure url="https://github.com/surbaniak/iphone-na-macu-releases/releases/download/v2.11.1/iPhone-na-Macu-2.11.1-update.zip" length="4803126" type="application/octet-stream" sparkle:version="30" sparkle:shortVersionString="2.11.1" sparkle:edSignature="vOQ8dxdfm326q/EfOuZQ/Jz7YtBTzxGxxvPCJLNWjQtUTLjB5s35Bi/4KKvGjJN/V35gZ2cLa+6FVcHpVhg5Ag=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: SJtszL2mFp+RoV2m/M+IoVusz/Pdhg+u55zv1l6iFUUMfhhRzxjNLth2PQZOgmC3YtjWNY+AjUxnSme2iW7xBQ==
-length: 1689
+edSignature: 7wCvQ1yxZqAnjDIY4xY2pRfV81PXvaXwFbEw826Cvk9KOZJy1E4iT8gXLZc6mzzc4OX9liDy0wEELUbk9orVAA==
+length: 1787
 -->
