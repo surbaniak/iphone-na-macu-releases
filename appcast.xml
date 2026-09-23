@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>iPhone na Macu</title>
+    <link>https://github.com/surbaniak/iphone-na-macu-releases</link>
+    <description>Podpisane aktualizacje iPhone na Macu</description>
+    <item>
+      <title>iPhone na Macu 2.11.0</title>
+      <pubDate>Wed, 23 Sep 2026 23:04:40 +0000</pubDate>
+      <description># iPhone na Macu 2.11.0
+
+- Automatyczne sprawdzanie, pobieranie i instalowanie podpisanych aktualizacji przez Sparkle.
+- Krótsze menu: wybór telefonu, ponowne połączenie i sprawdzanie aktualizacji.
+- Szklane podpowiedzi ikon po około 1,2 sekundy najechania kursorem.
+- Poprawione wklejanie tekstu dyktowanego we Flash: bez dodatkowego V, z polskimi znakami, emoji i nowymi wierszami.
+
+Wymagania pozostają bez zmian: Apple Silicon, macOS/iOS 27, Xcode 27 i sparowany fizyczny iPhone w trybie deweloperskim.
+</description>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/surbaniak/iphone-na-macu-releases/releases/download/v2.11.0/iPhone-na-Macu-2.11.0-update.zip" length="4775776" type="application/octet-stream" sparkle:version="29" sparkle:shortVersionString="2.11.0" sparkle:edSignature="EXMOkw/cw2bcNyZnXKB9tFkLTYgxC4/00H+mmVyXGEKJrvIHBaX9HFNp1BBlybE0Xf3U1RoHj/XFSBwmwOcbCg=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: SJtszL2mFp+RoV2m/M+IoVusz/Pdhg+u55zv1l6iFUUMfhhRzxjNLth2PQZOgmC3YtjWNY+AjUxnSme2iW7xBQ==
+length: 1689
+-->
