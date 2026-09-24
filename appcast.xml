@@ -6,14 +6,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/surbaniak/iphone-na-macu-releases</link>
     <description>Podpisane aktualizacje iPhone na Macu</description>
     <item>
-      <title>iPhone na Macu 2.11.4</title>
-      <pubDate>Thu, 24 Sep 2026 10:51:13 +0000</pubDate>
-      <description>&lt;h3&gt;iPhone na Macu 2.11.4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Krateczka zmiany rozmiaru znajduje się poza zaokrąglonym obrysem iPhone’a, w zewnętrznym narożniku okna.&lt;/li&gt;&lt;li&gt;Kropeczki i podświetlenie nie nachodzą na obraz telefonu.&lt;/li&gt;&lt;li&gt;Obszar przeciągania również omija obraz — kliknięcia i gesty na ekranie telefonu nie są przechwytywane przez uchwyt.&lt;/li&gt;&lt;li&gt;Zachowano płynne powiększanie i pomniejszanie oraz dotychczasowe skale.&lt;/li&gt;&lt;/ul&gt;</description>
+      <title>iPhone na Macu 2.12.0</title>
+      <pubDate>Thu, 24 Sep 2026 11:34:11 +0000</pubDate>
+      <description>&lt;h3&gt;iPhone na Macu 2.12.0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Automatyczne dopasowanie obrazu i okna do orientacji wyświetlacza iPhone’a. Obróć telefon w aplikacji obsługującej poziom; ekran główny i aplikacje działające w pionie zachowują swój układ.&lt;/li&gt;&lt;li&gt;Kliknięcia, przeciąganie, przewijanie i gest dolnej belki podążają za obrotem. Trwający dotyk jest zwalniany podczas zmiany orientacji.&lt;/li&gt;&lt;li&gt;Usunięto ręczny przycisk obrotu i zapamiętywanie wymuszonego pionu lub poziomu.&lt;/li&gt;&lt;li&gt;Zachowano skalę okna, ustawienia 0,75× / 1× / 1,25× / 1,5× oraz uchwyt zmiany rozmiaru poza obrysem telefonu.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Zmiana korzysta z bieżących zdarzeń orientacji ekranu. Nie wymusza orientacji aplikacji na iPhonie ani nie wyłącza blokady obrotu.&lt;/p&gt;</description>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/surbaniak/iphone-na-macu-releases/releases/download/v2.11.4/iPhone-na-Macu-2.11.4-update.zip" length="4825597" type="application/octet-stream" sparkle:version="33" sparkle:shortVersionString="2.11.4" sparkle:edSignature="oACMyw5Xu32ehltPVw9M6frsZ9RQppQ3+NRrT0PjtFgQ7jqRqBaxXFzPzM15IJfe1h8Ig2C0fy+twpHbKaL8Cw=="></enclosure>
+      <enclosure url="https://github.com/surbaniak/iphone-na-macu-releases/releases/download/v2.12.0/iPhone-na-Macu-2.12.0-update.zip" length="4870164" type="application/octet-stream" sparkle:version="34" sparkle:shortVersionString="2.12.0" sparkle:edSignature="cazlQEOc6ZwfwY/LyIz0IytlFsK7eTVCSYNnrhI75/RaNWe1kycjtq7WkZ4EEYEpDyb3kSgtGAa2Wq9FJJZaBg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: auA59I9eK2L+9XZtsGIZ30AHpeh46CNKMaAlgxWmhj+/WACAM4HEkSxjTU+3LrKQkip6YSfZ7hk+R6OKoQlpBw==
-length: 1689
+edSignature: MI1wdF+MGyp0wBHruZndWxpGDtf4QiobtCUWZdVJpi7/0XtjhHXn/Na7MraPT2FgBXpFa9Lb9H+zvuOTqoVvCA==
+length: 2018
 -->
