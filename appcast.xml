@@ -6,14 +6,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://github.com/surbaniak/iphone-na-macu-releases</link>
     <description>Podpisane aktualizacje iPhone na Macu</description>
     <item>
-      <title>iPhone na Macu 2.11.2</title>
-      <pubDate>Thu, 24 Sep 2026 00:31:36 +0000</pubDate>
-      <description>&lt;h3&gt;iPhone na Macu 2.11.2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Płynne powiększanie i pomniejszanie okna za dolną krawędź, z zachowaniem proporcji.&lt;/li&gt;&lt;li&gt;Panel „Rozmiar okna”: 0,75×, 1×, 1,25× i 1,5×, reset domyślnego rozmiaru i dopasowanie do monitora.&lt;/li&gt;&lt;li&gt;Panel pokazuje faktyczną skalę, gdy wybrany rozmiar jest za duży dla ekranu. Rozmiar jest zapamiętywany.&lt;/li&gt;&lt;li&gt;Osobna ikona obrotu podglądu na górnym pasku, ze zmiennym kierunkiem ikony i podpowiedzią.&lt;/li&gt;&lt;li&gt;Obrót dotyczy podglądu na Macu; kliknięcia i gesty są przeliczane do obróconego obrazu. Funkcja nie jest powielona w panelu rozmiaru.&lt;/li&gt;&lt;/ul&gt;</description>
+      <title>iPhone na Macu 2.11.3</title>
+      <pubDate>Thu, 24 Sep 2026 10:36:14 +0000</pubDate>
+      <description>&lt;h3&gt;iPhone na Macu 2.11.3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Widoczna, delikatna krateczka do zmiany rozmiaru w prawym dolnym rogu, także przy ukrytym pasku.&lt;/li&gt;&lt;li&gt;Większy obszar do złapania, ukośny kursor i podświetlenie uchwytu po najechaniu.&lt;/li&gt;&lt;li&gt;Płynne powiększanie i pomniejszanie z zachowaniem proporcji telefonu i położenia lewego górnego rogu.&lt;/li&gt;&lt;li&gt;Przeciąganie rozmiaru działa wyłącznie na uchwycie. Pozostałe krawędzie nie zmieniają wielkości okna.&lt;/li&gt;&lt;li&gt;Skale i przywracanie domyślnego rozmiaru pozostają dostępne w panelu „Rozmiar okna”.&lt;/li&gt;&lt;/ul&gt;</description>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/surbaniak/iphone-na-macu-releases/releases/download/v2.11.2/iPhone-na-Macu-2.11.2-update.zip" length="4821803" type="application/octet-stream" sparkle:version="31" sparkle:shortVersionString="2.11.2" sparkle:edSignature="g2vt0jW8+tQRXhxI6PaY1T1JwfUn9fax3cPraIw0vgoOgyzQIouRTIeSKwSt4jOETKpM2y8NwGth1v2cy9FEDQ=="></enclosure>
+      <enclosure url="https://github.com/surbaniak/iphone-na-macu-releases/releases/download/v2.11.3/iPhone-na-Macu-2.11.3-update.zip" length="4822456" type="application/octet-stream" sparkle:version="32" sparkle:shortVersionString="2.11.3" sparkle:edSignature="MY/UGRUJBRmwUQKb10j6zBlN5p/vz0+JDepiYbubDBwtpxhfov0swFHpAUQwRQfQC63lP8BR0hzZouxz3nclDQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Lv5fkZoK+kSoUkIUfnpjbxBFfnWVusXxYgYfEKMpjdaxS2Rjc2FT+HBU+yme1Iu+dOkwMq2FgpNq4rDNEm2uBw==
-length: 1880
+edSignature: joJWZj4MwfmV62oWz+kV6eGmjmaiTNwYUbkoJlsIqtIsHQwYdsO0MnVuJ1Q3yHCTskDTbH4FyP7pUoOFyjpuAQ==
+length: 1832
 -->
